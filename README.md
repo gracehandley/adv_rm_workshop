@@ -36,9 +36,16 @@ We are using the summary data from Inquisit. These data are saved in foodstroops
 ### Steps for importing, preparing, and analyzing our data:
 0. Set our working directory with `setwd()`
 1. Import our data with `read.csv`
-2. Plot simple histograms of each DV
-3. Log transform the RT DV
+2. Plot simple histograms of each overall DV
+3. Log transform the RT DVs
 4. Run the appropriate statistical test for the accuracy DV
 5. Run the appropriate statistical test for the log-transformed RT DV
-6. Plot the results of both tests
+6. Plot the results of both tests using the `ggpaired()` function from `{ggpubr}`
 7. Save our results
+
+### Questions for after we've completed data analysis:
+1. Are you surprised by these results? Why or why not?
+2. Why might the effect of condition on RT be significant, but not on accuracy? Can anything about the accuracy histogram help us figure out why this might be the case?
+3. When writing up our results, which tests should we report?
+4. How do we write about these statistical tests in our results section?
+5. Which plots should we include in our results section?

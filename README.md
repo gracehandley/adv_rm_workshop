@@ -37,11 +37,10 @@ We are using the summary data from Inquisit. These data are saved in foodstroops
 0. Set our working directory with `setwd()`
 1. Import our data with `read.csv`
 2. Plot simple histograms of each overall DV
-3. Log transform the RT DVs
-4. Run the appropriate statistical test for the accuracy DV
-5. Run the appropriate statistical test for the log-transformed RT DV
-6. Plot the results of both tests using the `ggpaired()` function from `{ggpubr}`
-7. Save our results
+3. Run the appropriate statistical test for the accuracy DV
+4. Run the appropriate statistical test for the RT DV
+5. Plot the results of both tests using the `ggpaired()` function from `{ggpubr}`
+6. Save our results
 
 ### Questions for after we've completed data analysis:
 1. Are you surprised by these results? Why or why not?

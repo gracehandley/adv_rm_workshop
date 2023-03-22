@@ -16,6 +16,9 @@ Work through R basics first: Steps 1-3 of [this tutorial](https://www.jcu.edu.au
 ### Food Stroop description:
 Our class ran an alternative Stroop task in which the stimulus words were food items that were strongly associated with certain colors (i.e., tomato, lemon, carrot, and broccoli instead of red, yellow, orange, and green, respectively). The goal of this R workshop is to import these data, prepare them for analysis, and analyze them. 
 
+### Data and code availability:
+The data file and R script for these analyses are available in the foodstroop sub-folder of this repository. The pilot data are unnecessary for this workshop, but they are available in the pilot sub-folder of this repository for those who are interested.
+
 ### Questions before getting started with data analysis:
 1. What kind of experimental design are we using in this study?
 2. What is/are our dependent variable(s)?

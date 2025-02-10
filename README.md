@@ -1,4 +1,4 @@
-# ARM-R-intro
+# adv_rm_workshop
 **Introductory R workshop for Advanced Research Methods students (created Spring 2023)**
 
 *16 March 2023 - Grace Handley*
